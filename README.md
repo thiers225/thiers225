@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+Bienvenue sur mon GitHub ! Je suis **Thierry N'DRI**, développeur PHP/Symfony et passionné par la transformation digitale. J'adore créer des solutions web qui simplifient les processus et aident les entreprises à réussir leur transition numérique.
 <!--
 **thiers225/thiers225** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -25,7 +25,7 @@ Titulaire de deux Masters — Management Digital et Systèmes d'Information, et 
 
 ## Travaux en cours
 
-- **[BisaMi AI](https://github.com/thiers225/bisami-ai)** : projet d'assistant conversationnel configurable pour les organisations, en phase de conception.
+- **[BisaMi AI](https://github.com/BisaMi-AI/bisami-ai)** : projet open source d'assistants conversationnels configurables pour les organisations, développé dans l'organisation BisaMi AI.
 - Approfondissement des systèmes RAG, de l'évaluation des réponses et de l'automatisation.
 - Amélioration de la reproductibilité et de la documentation de mes projets IA.
 

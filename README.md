@@ -10,7 +10,7 @@ Titulaire de deux Masters — Management Digital et Systèmes d'Information, et 
 
 | Projet | Problème traité | Technologies |
 | --- | --- | --- |
-| [AGRI-SMART](https://github.com/thiers225/new_app_streamlit_agri_smart) | Classification des maladies foliaires du maïs et estimation du rendement ; prototype avec limites documentées | Python, TensorFlow, Scikit-learn, Streamlit |
+| [AGRI-SMART](https://github.com/thiers225/agri-smart) | Projet d'IA agricole pour le maïs : reprise du développement dans ce nouveau dépôt | Stack à documenter |
 | [E-Learning Formation](https://github.com/thiers225/elearningApp) | Gestion de formations, cours et examens en ligne | Symfony, Doctrine, Twig |
 
 ## Compétences

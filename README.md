@@ -10,7 +10,7 @@ Titulaire de deux Masters — Management Digital et Systèmes d'Information, et 
 
 | Projet | Problème traité | Technologies |
 | --- | --- | --- |
-| [AGRI-SMART](https://github.com/thiers225/agri-smart) | Projet d'IA agricole pour le maïs : reprise du développement dans ce nouveau dépôt | Stack à documenter |
+| [AGRI-SMART](https://github.com/thiers225/agri-smart) | Plateforme d’IA agricole en développement : prédiction des rendements, détection des maladies et aide à la décision pour plusieurs cultures | Stack à documenter |
 
 ## Compétences
 

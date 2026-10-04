@@ -11,6 +11,7 @@ Titulaire de deux Masters — Management Digital et Systèmes d'Information, et 
 | Projet | Problème traité | Technologies |
 | --- | --- | --- |
 | [AGRI-SMART](https://github.com/thiers225/agri-smart) | Plateforme d’IA agricole en développement : prédiction des rendements, détection des maladies et aide à la décision pour plusieurs cultures | Stack à documenter |
+| [BisaMi AI](https://github.com/BisaMi-AI/bisami-ai) | Plateforme open source d’assistants IA configurables, en développement : exploitation des documents des organisations et réponses accompagnées de sources | FastAPI, PostgreSQL/pgvector, Next.js, Docker — architecture cible |
 
 ## Compétences
 
